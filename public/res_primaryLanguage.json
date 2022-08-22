@@ -11,38 +11,38 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Cookie Stand",
+        "startDate": "2022",
+        "description": "A tracking application for a cookie business, offers visitor basic location information and allows the owners to track sales and staffing needs via dynamic tables.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "[images tbd]",
+          "[images tbd]"
         ],
-        "url": "",
+        "url": "https://diablokitty.github.io/cookie-stand/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css-plain",
+            "name": "CSS"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Gallery Of Horns",
+        "startDate": "2022",
+        "description": "A site for viewing and sorting the viewing choices of horned beasts. Includes a modal for pop up views.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "[images coming]",
+          "[images coming]"
         ],
-        "url": "https://github.com",
+        "url": "https://moonlit-valkyrie-54472a.netlify.app/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,63 +55,56 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Fight Club Game",
+        "startDate": "2022",
+        "description": "A game that allows the user to simulate a fight.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "coming",
+          "coming"
         ],
-        "url": "https://github.com",
+        "url": "https://team-awesome-201-project.github.io/fight-club-game/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css-plain",
+            "name": "CSS"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Ironguard Security",
+        "title": "Office Manager",
+        "years": "10.2010 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "HTML, CSS"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "NetSuite"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Robert Half International",
+        "title": "Consultant",
+        "years": "2008 - 2014",
         "mainTech": [
-          "Angular 7/8"
+          "NetSuite"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "NetSuite",
+          "Great Plains",
+          "Custom PHP Applications",
+          "WordPress"
         ]
       }
     ]
