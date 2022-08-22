@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Amy Pierce. I'm a Full Stack Web Developer currently enhancing my skills through the code accelertor at Code Fellows. My current skill focus is Javascript, the React framework and the MERN stack. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Welcome to the the Me page!",
+      "description": "I'm Amy Pierce. I'm a Full Stack Web Developer currently enhancing my skills through the code accelertor program at Code Fellows. My current learning focus is Javascript, the React framework and the MERN stack. A long time ago I decided that when I grew up I wanted to be an accountant. And I did that. And just recently I decided that when I grow up, I want to be a programmer. I don't ever seem to decide I want to grow up, though.  ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
